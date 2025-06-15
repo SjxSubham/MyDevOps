@@ -3,7 +3,7 @@
 [Tutorial](https://youtu.be/DQdB7wFEygo?si=K-dk9NiCktU2rzcu)
 
 
--[X] Harkirat's reference site/documentation link - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-1)
+- [X] Harkirat's reference site/documentation link - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-1)
 
 
 
