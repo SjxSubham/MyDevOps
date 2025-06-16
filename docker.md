@@ -29,6 +29,9 @@
 - To show all running container list currently 
 ` docker ps `
 
+- To build a image 
+` docker build -t <image_name> . `
+
 
 #### Example
 ```Dockerfile
@@ -45,6 +48,22 @@
 
 ```
 
+## Some more Commands
+- How to execute a command inside a container
+- Running an interactive shell , inside a container
+` docker exec -it <container_name> /bin/bash `
+    - check inside file structure
+        ` root@a64458638b42:/app# ls `
+    - to check CPU running usage
+        ` root@a64458638b42:/app# top `
+    - exit from interactive shell 
+        ` root@a64458638b42:/app# exit `
+- If u dont want to go inside interactive shell : ` docker exec <container_name> ls `
+
+
 
 -- DATE - 14 june 2k25 -time stamp - 1:27:22 #harkirats docker tutorial
+
+
+- Layers in Docker- step 15 - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-15)
 
