@@ -67,3 +67,18 @@
 
 - Layers in Docker- step 15 - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-15)
 
+
+- To Add Volumes
+` docker volume create volume_database `
+
+- To Check how many volumes are there 
+` docker volume ls `
+
+- To create a network 
+` docker network create my_custom_network `
+
+`docker network ls`
+
+docker run -d 
+
+16th june - 1:22:09
