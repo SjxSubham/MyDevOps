@@ -1,3 +1,9 @@
+#### Docker Tutorial just in 11 mnt
+
+[Tutorial](https://youtu.be/DQdB7wFEygo?si=K-dk9NiCktU2rzcu)
+
+
+- [X] Harkirat's reference site/documentation link - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-1)
 
 
 
@@ -59,7 +65,7 @@
 -- DATE - 14 june 2k25 -time stamp - 1:27:22 #harkirats docker tutorial
 
 
-- Layers in Docker- step 15 - [Documentation]
+- Layers in Docker- step 15 - [Documentation](https://projects.100xdevs.com/tracks/docker-2/docker-2-15)
 
 
 - To Add Volumes
