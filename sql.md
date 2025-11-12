@@ -1,7 +1,11 @@
-1. sudo systemctl status mysql
-2. sudo systemctl start mysql
-3. mysql -u root -p
-4. sudo systemctl stop mysql
+```sql
+
+sudo systemctl status mysql
+sudo systemctl start mysql
+mysql -u root -p
+sudo systemctl stop mysql
+
+```
 
 select user from mysql.user;
 
